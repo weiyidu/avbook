@@ -1,7 +1,7 @@
 <?php
 
 return ['avmoohost'=>'avmoo.asia',
-    'javbushost'=>'www.javbus.life',
+    'javbushost'=>'www.cdnbus.cc',
     'javlibhost'=>'www.c32r.com',
-    'btsourl' => 'https://btsow.pw/search/'
+    'btsourl' => 'https://btspread.com/search/'
 ];
