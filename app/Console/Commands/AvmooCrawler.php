@@ -53,7 +53,7 @@ class AvmooCrawler extends BaseCrawler
             'Host'=>$this->sphost,
             'Accept-Encoding'=>'gzip, deflate',
             'Referer'=>$this->hosturl,
-            'User-Agent' => 'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+            'User-Agent' => 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.baidu.com/search/spider.html)',
 //            'User-Agent' => 'Mozilla/5.0 (en-us) AppleWebKit/525.13 (KHTML, like Gecko; Google Web Preview) Version/3.1 Safari/525.13',
 //            'User-Agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36',
             'Accept'     => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
